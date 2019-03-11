@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FITASC Timer</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_denied">Permission was denied.</string>
+    <string name="tips">Adjust Decibel threshold value by dragging the slider.
+        Crossing this value determines the shot has been fired and the count starts.
+    </string>
+</resources>

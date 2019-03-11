@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FitascGame</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="long_press_intro">intro tester :)</string>
+    <string name="exiting_for_permissions">Premission required. Exiting for now.</string>
+    <string name="tips">Adjust Decibel threshold value by dragging the slider or by entering the value.</string>
+    <string name="name">FITASC Timer</string>
+
+</resources>

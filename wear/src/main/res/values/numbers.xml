@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="DefaultThresholdValue">135</integer>
+    <integer name="DefaultCountDownTime">15</integer>
+
+</resources>
+
+
+    <!--
+    <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <integer name="DefaultThresholdValue">70</item>
+        <item name="DefaultCountDownTime">15</item>
+    </resources>
+    -->
+
